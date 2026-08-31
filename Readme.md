@@ -1,4 +1,3 @@
-# A Ramanujan-Scaled Fast Multipole Method for Solving the Secular Equation
 
 This repository contains the Python implementation accompanying the research work:
 
